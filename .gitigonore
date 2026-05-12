@@ -1,0 +1,10 @@
+# Windows系統
+Thumbs.ub
+Desktop.ini
+
+# VS code 設定
+.vscode/
+
+#暫存檔
+*.tmp
+*.log
